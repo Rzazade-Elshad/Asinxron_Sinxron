@@ -1,0 +1,14 @@
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\bin\Debug\net8.0\asinxron_sinxron.exe
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\bin\Debug\net8.0\asinxron_sinxron.deps.json
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\bin\Debug\net8.0\asinxron_sinxron.runtimeconfig.json
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\bin\Debug\net8.0\asinxron_sinxron.dll
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\bin\Debug\net8.0\asinxron_sinxron.pdb
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\obj\Debug\net8.0\asinxron_sinxron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\obj\Debug\net8.0\asinxron_sinxron.AssemblyInfoInputs.cache
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\obj\Debug\net8.0\asinxron_sinxron.AssemblyInfo.cs
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\obj\Debug\net8.0\asinxron_sinxron.csproj.CoreCompileInputs.cache
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\obj\Debug\net8.0\asinxron_sinxron.dll
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\obj\Debug\net8.0\refint\asinxron_sinxron.dll
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\obj\Debug\net8.0\asinxron_sinxron.pdb
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\obj\Debug\net8.0\asinxron_sinxron.genruntimeconfig.cache
+C:\Users\rzaza\source\repos\asinxron_sinxron\asinxron_sinxron\obj\Debug\net8.0\ref\asinxron_sinxron.dll
